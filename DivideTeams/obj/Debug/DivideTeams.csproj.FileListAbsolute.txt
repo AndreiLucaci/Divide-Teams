@@ -1,0 +1,6 @@
+c:\users\a.lucaci\documents\visual studio 2017\Projects\DivideTeams\DivideTeams\bin\Debug\DivideTeams.exe.config
+c:\users\a.lucaci\documents\visual studio 2017\Projects\DivideTeams\DivideTeams\bin\Debug\DivideTeams.exe
+c:\users\a.lucaci\documents\visual studio 2017\Projects\DivideTeams\DivideTeams\bin\Debug\DivideTeams.pdb
+c:\users\a.lucaci\documents\visual studio 2017\Projects\DivideTeams\DivideTeams\obj\Debug\DivideTeams.csprojResolveAssemblyReference.cache
+c:\users\a.lucaci\documents\visual studio 2017\Projects\DivideTeams\DivideTeams\obj\Debug\DivideTeams.exe
+c:\users\a.lucaci\documents\visual studio 2017\Projects\DivideTeams\DivideTeams\obj\Debug\DivideTeams.pdb
